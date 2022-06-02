@@ -11,18 +11,16 @@ body{
     background-color: #e4e4e4;
 }
 
+header{
+    background-color: #252525;
+    height: 75px;
+}
+
 header h1{
-    margin: 25px 25px 25px 35%;
+    margin: 25px;
     color: #ebc746;
     font-weight: lighter;
     font-family: Cinzel;
-}
-
-header hr{
-    border-width: 0; 
-	height: 1px;
-	border-top-width: 2px;
-    border-color: #252525;
 }
 
 main{
