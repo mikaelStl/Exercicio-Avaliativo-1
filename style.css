@@ -12,16 +12,17 @@ body{
 }
 
 header{
-    /**/
-    background-color: #252525;
+    display: flex;
+    align-items: center;
     height: 75px;
+    background-color: #252525;
 }
 
 header h1{
-    margin: 25px;
-    color: #ebc746;
-    font-weight: lighter;
+    margin: 35px;
     font-family: Cinzel;
+    font-weight: lighter;
+    color: #ebc746;
 }
 
 main{
@@ -32,7 +33,7 @@ main{
 }
 
 main p{
-    width: 70%;
+    width: 80%;
     text-indent: 50px;
     margin: 15px;
     font-family: Poppins;
